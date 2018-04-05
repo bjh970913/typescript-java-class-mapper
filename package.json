@@ -1,0 +1,12 @@
+{
+  "name": "typescript-java-class-mapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bjh970913/typescript-java-class-mapper.git",
+  "author": "bjh970913 <bjh970913@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "java-class-tools": "^1.3.1",
+    "walk": "^2.3.13"
+  }
+}
